@@ -1,3 +1,6 @@
+//Credits to Chethana Jayasinghe for initial script.
+//Edited by RJS
+
 #include <stdio.h>
 #include <math.h>
 
