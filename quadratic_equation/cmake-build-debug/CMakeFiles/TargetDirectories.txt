@@ -1,0 +1,3 @@
+D:/Programming/C/Programs/cool-c-scripts/quadratic_equation/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programming/C/Programs/cool-c-scripts/quadratic_equation/cmake-build-debug/CMakeFiles/quadratic_equation.dir
+D:/Programming/C/Programs/cool-c-scripts/quadratic_equation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
